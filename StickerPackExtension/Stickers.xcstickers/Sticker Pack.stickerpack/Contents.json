@@ -1,0 +1,80 @@
+{
+  "stickers" : [
+    {
+      "filename" : "AhTrump.sticker"
+    },
+    {
+      "filename" : "AyyTrump.sticker"
+    },
+    {
+      "filename" : "ClassicTrump.sticker"
+    },
+    {
+      "filename" : "ConstipatedTrump.sticker"
+    },
+    {
+      "filename" : "FerretTrump.sticker"
+    },
+    {
+      "filename" : "firedTrump.sticker"
+    },
+    {
+      "filename" : "MakeAmericaGreatTrump.sticker"
+    },
+    {
+      "filename" : "gunTrump.sticker"
+    },
+    {
+      "filename" : "HappyTrump.sticker"
+    },
+    {
+      "filename" : "SlyTrump.sticker"
+    },
+    {
+      "filename" : "hiTrump.sticker"
+    },
+    {
+      "filename" : "HmokTrump.sticker"
+    },
+    {
+      "filename" : "JoyTrump.sticker"
+    },
+    {
+      "filename" : "MadTrump.sticker"
+    },
+    {
+      "filename" : "OkTrump.sticker"
+    },
+    {
+      "filename" : "omgTrump.sticker"
+    },
+    {
+      "filename" : "GrudgeTrump.sticker"
+    },
+    {
+      "filename" : "Pray4Trump.sticker"
+    },
+    {
+      "filename" : "TrumpMoney.sticker"
+    },
+    {
+      "filename" : "SmugTrump.sticker"
+    },
+    {
+      "filename" : "YkesTrump.sticker"
+    },
+    {
+      "filename" : "StoicTrump.sticker"
+    },
+    {
+      "filename" : "TrumpMeh.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
